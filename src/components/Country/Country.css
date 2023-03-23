@@ -1,12 +1,12 @@
 .country {
     margin: 20px;
-    padding: 30px;
+    padding: 10px;
     background-color: blueviolet;
     border: dashed 2px aqua;
     border-radius: 20px
 }
 .country-flag{
-    height: 250px;
-    width: 400px;
-    border-radius: 20px;
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
 }
